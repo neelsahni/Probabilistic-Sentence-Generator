@@ -2,8 +2,8 @@
 
 My Personal Project for ITP 116: Introduction to Python
 
-# Overview
+## Overview
 
-# Functionality
+## Functionality
 
-# Looking Ahead
+## Looking Ahead
