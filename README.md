@@ -1,4 +1,4 @@
-# Probabilistic Sentence Generator
+# Probabilistic Text Composer
 
 ## Overview
 
