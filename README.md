@@ -2,7 +2,7 @@
 
 ## Overview
 
-Given a user-inputted text file, the program creates a weighted graph of words that is then used to compose sentences probabilistically. 
+Given a user-inputted text file, this program creates a weighted graph of words that is then used to compose sentences probabilistically. 
 
 ## Functionality
 
